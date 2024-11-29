@@ -8,7 +8,6 @@
   
 🔭 Eu sou desenvolvedor Back-end e atualmente trabalho com Java
 
-
 🌱 Também estou estudando typescript e angular
 
 💬 Sou entusiasta no desenvolvimento Java para APIs
